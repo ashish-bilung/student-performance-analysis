@@ -38,4 +38,3 @@ student-performance-analysis/
 ├── README.md
 ├── .gitignore
 └── LICENSE
-
